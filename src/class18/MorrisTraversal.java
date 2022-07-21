@@ -1,4 +1,4 @@
-package class17;
+package class18;
 
 public class MorrisTraversal {
     public static class Node {
